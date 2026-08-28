@@ -1,0 +1,6 @@
+{
+  "name": "Aotearoa Holiday Park & Port Waikato Hub",
+  "description": "Integrated Aotearoa holiday park management, Port Waikato community & business hub, real-time predictive resource capacity alert system, Dragon9 Nest full emulsion sensory experience, offline-resilient Boarding Pass protocol, and Dragon 9 OS.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
